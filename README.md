@@ -1,4 +1,4 @@
-# sshauthforgithub
+
 # GitHub SSH Authentication Setup
 
 ## Overview
